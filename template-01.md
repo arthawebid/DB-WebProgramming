@@ -96,7 +96,7 @@ Main
       </div>
     </div>
   </div>
-</secion>
+</section>
 ```
 
 Bagian Kategori
